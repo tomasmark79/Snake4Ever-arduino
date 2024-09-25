@@ -3,12 +3,6 @@ const unsigned char PROGMEM scoreStartGame [] = {
 0x90,63, 0,225, 0x80, 0,112, 0x90,69, 0x91,66, 0,226, 0x80, 0x81, 0,112, 0x90,63, 0,225, 0x80, 0,113, 0x90,72, 
 0x91,66, 0,225, 0x80, 0x81, 0xF0};
 
-// Playtune bytestream for file "powerrangers1.mid" created by MIDITONES V2.4 on Tue Sep 24 09:32:02 2024
-const unsigned char PROGMEM scoreTutuDuTu [] = {
-0x90,64, 0,166, 0x80, 0,167, 0x90,64, 0,166, 0x80, 0,167, 0x90,62, 0,167, 0x90,64, 0,166, 0x80, 0,167, 0x90,67, 
-0,167, 0x80, 0,166, 0x90,64, 0,167, 0x80, 0xF0};
-
-
 // Playtune bytestream for file "infected1.mid" created by MIDITONES V2.4 on Tue Sep 24 08:41:39 2024
 const unsigned char PROGMEM scoreWelcome [] = {
 0x90,74, 0x91,38, 0,51, 0x91,38, 0,52, 0x90,75, 0x91,38, 0,52, 0x91,38, 0,51, 0x90,74, 0x91,38, 0,52, 
