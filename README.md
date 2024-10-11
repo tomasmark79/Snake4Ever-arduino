@@ -2,7 +2,9 @@
 
 ## Overview
 
-**Arduino Snake4Ever** is a retro Snake game for Arduino that you can run on an OLED display. This project is perfect for classic game enthusiasts and Arduino fans who want to try programming a Snake game using various peripherals and technologies.  
+**Arduino Snake4Ever** is a retro Snake game for Arduino that you can run on an OLED display. This project is perfect for classic game enthusiasts and Arduino fans who want to try programming a Snake game using various peripherals and technologies.
+
+<img width="594" alt="image" src="https://github.com/user-attachments/assets/faa0b783-f59e-4aac-9861-f327aa166042">
 
 The project includes:  
 - Graphics rendered on an OLED display.  
